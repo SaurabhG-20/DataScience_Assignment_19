@@ -1,8 +1,8 @@
 # DataScience_Assignment_19
 
-# This repoitory belongs to Question and problems stated in Assignment 19
+ This repoitory belongs to Question and problems stated in Assignment 19
 
-2. Problem Statement
+#. Problem Statement
 1. What are the three stages to build the hypotheses or model in machine learning?
 2. What is the standard approach to supervised learning?
 3. What is Training set and Test set?
