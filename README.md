@@ -11,4 +11,4 @@ boosting in ensemble method?
 5. How can you avoid overfitting ?
 
 Note :
-Please refer Soultion directory for Answers mentioned fro above problems
+Please refer Solution directory for Answers mentioned fro above problems
